@@ -1,0 +1,61 @@
+h1{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+  color:rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(0, 95, 29);
+  /* border-width:23px;
+  border-color: black;
+  border-style: solid; */
+  border: 5px rgb(0, 41, 14) solid;
+ 
+}
+
+
+#Heading{
+   background-color:green;
+  /* border-width:23px;
+  border-color: black;
+  border-style: solid; */
+ border:20px rgb(0, 43, 14) solid;
+ border-radius:34px;
+ 
+ 
+}
+
+
+body{
+  background-image: url(./25519679_v627-aew-05-technologybackground.jpg);
+  background-size:1240px;
+  background-position: 5000px;
+}
+
+#teen{
+  color: rgb(0, 0, 0);
+  /* border-width:23px;
+  border-color: black;
+  border-style: solid; */
+  border: 5px  rgb(0, 43, 14) solid;
+  
+  
+}
+
+#move{
+  position: relative;
+  left: 500px;
+  color: aliceblue;
+  /* border-width:23px;
+  border-color: black;
+  border-style: solid; */
+  border: 2px green solid;
+}
+#red{
+  color: red;
+  font-size: 50px;
+  
+
+
+}
+
